@@ -13,8 +13,10 @@ NC='\033[0m' # No Color
 clear
 echo -e "${MAGENTA}"
 cat << "SQUID"
-echo -e "${MAGENTA}"
-cat << "SQUID"
+          🦑
+          🦑🦑
+          🦑🦑🦑
+          🦑🦑🦑🦑
          🦑🦑🦑🦑🦑
         🦑🦑🦑🦑🦑🦑
        🦑🦑🦑🦑🦑🦑
