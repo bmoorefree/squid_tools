@@ -1,3 +1,4 @@
+#Squid tools by BMoore Solutions for Cuttlephish "Cuttle-Test"
 #!/bin/bash
 
 # ANSI color codes
